@@ -1,0 +1,33 @@
+<view class="container">
+  <view class="search">
+    <view class="item-right" bindtap="showLocation">
+      <image src="/static/images/ico-addr.png" class="right-icon"></image>
+    </view>
+    <navigator url="/pages/search/search" class="input jhx_bg1">
+      <image class="icon"></image>
+      <!-- <text class="txt jhx_f1">商品搜索, 共{{goodsCount}}款供您选择...</text> -->
+    </navigator>
+  </view>
+
+  <swiper class="banner" indicator-dots="true" autoplay="true" interval="3000" duration="1000">
+    <swiper-item wx:for="{{banner}}" wx:key="id">
+      <!-- <navigator url="{{item.link}}"> -->
+      <image src="{{item.url}}" background-size="cover"></image>
+      <!-- </navigator> -->
+    </swiper-item>
+  </swiper>
+
+  <mp-tabbar class="topbar" style="top:10;width:100%;left:0;right:0;" list="{{list}}" bindchange="tabChange" current="{{index}}">
+    </mp-tabbar>
+    <view class="page-bd">
+        <block wx:if="{{index==0}}">
+            <image src="http://img2.3png.com/f3bbdc41acbe136c6b37887ac56711b091e9.png/w260"></image>
+        </block>
+        <block wx:if="{{index==1}}">
+          <image src="http://img2.3png.com/f3bbdc41acbe136c6b37887ac56711b091e9.png/w260"></image>
+        </block>
+        <block wx:if="{{index==2}}">
+          <image src="http://img2.3png.com/f3bbdc41acbe136c6b37887ac56711b091e9.png/w260"></image>
+        </block>
+    </view>
+</view>

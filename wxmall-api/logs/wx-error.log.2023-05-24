@@ -1,0 +1,12 @@
+ERROR 2023-05-24 15:45:03,842 [http-nio-8070-exec-6] cn.forbearance.mall.web.WxAuthController > 微信登录,调用官方接口失败：the code is a mock one
+ERROR 2023-05-24 15:46:11,248 [http-nio-8070-exec-2] cn.forbearance.mall.web.WxAuthController > 请求账号注册出错:验证码错误
+ERROR 2023-05-24 15:46:39,378 [http-nio-8070-exec-1] cn.forbearance.mall.web.WxAuthController > 请求账号注册出错:验证码错误
+ERROR 2023-05-24 15:47:34,748 [http-nio-8070-exec-3] cn.forbearance.mall.web.WxAuthController > 请求账号注册出错:验证码错误
+ERROR 2023-05-24 15:48:09,211 [http-nio-8070-exec-2] cn.forbearance.mall.web.WxAuthController > 请求账号注册出错:获取腾讯官方 openid失败
+ERROR 2023-05-24 16:43:24,115 [http-nio-8070-exec-4] cn.forbearance.mall.web.WxAuthController > 请求账号注册出错:获取腾讯官方 openid失败
+ERROR 2023-05-24 16:46:29,189 [http-nio-8070-exec-2] cn.forbearance.mall.web.WxAuthController > 账户登录 用户尚未存在,用户名:13345678909
+ERROR 2023-05-24 16:46:59,997 [http-nio-8070-exec-3] cn.forbearance.mall.web.WxAuthController > 账户登录：设置用户指定信息出错：Cannot format given Object as a Date
+ERROR 2023-05-24 16:51:10,475 [http-nio-8070-exec-3] cn.forbearance.mall.web.WxCouponController > 个人可领取优惠券列表:用户未登录！！！
+ERROR 2023-05-24 16:51:29,918 [http-nio-8070-exec-4] cn.forbearance.mall.web.WxAuthController > 账户登录：设置用户指定信息出错：Cannot format given Object as a Date
+ERROR 2023-05-24 17:03:24,749 [http-nio-8070-exec-5] cn.forbearance.mall.web.WxAuthController > 账户登录：设置用户指定信息出错：Cannot format given Object as a Date
+ERROR 2023-05-24 17:08:01,420 [http-nio-8070-exec-9] cn.forbearance.mall.web.WxAuthController > 账户登录：设置用户指定信息出错：Cannot format given Object as a Date

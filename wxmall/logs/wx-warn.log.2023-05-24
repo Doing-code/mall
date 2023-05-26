@@ -1,0 +1,24 @@
+WARN  2023-05-24 15:14:42,050 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'accountMapperEx' and 'cn.forbearance.mall.dao.ex.AccountMapperEx' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:14:42,051 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'goodsProductMapper' and 'cn.forbearance.mall.dao.ex.GoodsProductMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:14:42,052 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'orderMapper' and 'cn.forbearance.mall.dao.ex.OrderMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:14:42,052 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'statMapper' and 'cn.forbearance.mall.dao.ex.StatMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:15:44,734 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'accountMapperEx' and 'cn.forbearance.mall.dao.ex.AccountMapperEx' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:15:44,736 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'goodsProductMapper' and 'cn.forbearance.mall.dao.ex.GoodsProductMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:15:44,737 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'orderMapper' and 'cn.forbearance.mall.dao.ex.OrderMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:15:44,738 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'statMapper' and 'cn.forbearance.mall.dao.ex.StatMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:16:18,463 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'accountMapperEx' and 'cn.forbearance.mall.dao.ex.AccountMapperEx' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:16:18,464 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'goodsProductMapper' and 'cn.forbearance.mall.dao.ex.GoodsProductMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:16:18,464 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'orderMapper' and 'cn.forbearance.mall.dao.ex.OrderMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:16:18,464 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'statMapper' and 'cn.forbearance.mall.dao.ex.StatMapper' mapperInterface. Bean already defined with the same name!
+ERROR 2023-05-24 15:18:43,930 [http-nio-8083-exec-2] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:18:43,932 [http-nio-8083-exec-2] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:18:57,848 [http-nio-8083-exec-4] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:18:57,849 [http-nio-8083-exec-4] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:19:06,681 [http-nio-8083-exec-6] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（mall123）的帐号信息
+ERROR 2023-05-24 15:19:06,682 [http-nio-8083-exec-6] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:20:12,847 [http-nio-8083-exec-8] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:20:16,348 [http-nio-8083-exec-8] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+WARN  2023-05-24 15:38:48,082 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'accountMapperEx' and 'cn.forbearance.mall.dao.ex.AccountMapperEx' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:38:48,083 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'goodsProductMapper' and 'cn.forbearance.mall.dao.ex.GoodsProductMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:38:48,083 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'orderMapper' and 'cn.forbearance.mall.dao.ex.OrderMapper' mapperInterface. Bean already defined with the same name!
+WARN  2023-05-24 15:38:48,083 [main] org.mybatis.spring.mapper.ClassPathMapperScanner > Skipping MapperFactoryBean with name 'statMapper' and 'cn.forbearance.mall.dao.ex.StatMapper' mapperInterface. Bean already defined with the same name!

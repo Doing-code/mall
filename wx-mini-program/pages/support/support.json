@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "爱心助农",
+  "usingComponents": {
+    "mp-tabbar": "weui-miniprogram/tabbar/tabbar"
+  }
+}

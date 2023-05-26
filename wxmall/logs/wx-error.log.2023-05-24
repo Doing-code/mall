@@ -1,0 +1,8 @@
+ERROR 2023-05-24 15:18:43,930 [http-nio-8083-exec-2] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:18:43,932 [http-nio-8083-exec-2] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:18:57,848 [http-nio-8083-exec-4] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:18:57,849 [http-nio-8083-exec-4] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:19:06,681 [http-nio-8083-exec-6] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（mall123）的帐号信息
+ERROR 2023-05-24 15:19:06,682 [http-nio-8083-exec-6] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2023-05-24 15:20:12,847 [http-nio-8083-exec-8] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2023-05-24 15:20:16,348 [http-nio-8083-exec-8] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确

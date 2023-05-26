@@ -1,0 +1,17 @@
+{
+  "name": "mall",
+  "version": "1.0.0",
+  "description": "小程序商城",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuanwu[2321550282]",
+  "license": "MIT",
+  "dependencies": {
+    "weui-miniprogram": "^1.2.7"
+  }
+}

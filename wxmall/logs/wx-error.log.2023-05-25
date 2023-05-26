@@ -1,0 +1,2 @@
+ERROR 2023-05-25 11:19:57,779 [http-nio-8083-exec-5] cn.forbearance.mall.shiro.AdminAuthorizingRealm > 找不到用户（dtsadmin）的帐号信息
+ERROR 2023-05-25 11:19:57,782 [http-nio-8083-exec-5] cn.forbearance.mall.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
